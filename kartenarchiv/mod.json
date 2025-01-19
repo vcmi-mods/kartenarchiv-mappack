@@ -1,7 +1,7 @@
 {	
 	"name" : "German Map Pack",
 	"description" : "German Map Pack is a map pack for Heroes 3 based on www.kartenarchiv.de maps.",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"author" : "",
 	"contact" : "http://www.kartenarchiv.de/",
 	"modType" : "Maps",
@@ -11,6 +11,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.2" : [ "Removed 2 broken maps" ],
 		"1.0.1" : [ "Various translations by George King using translator tool from Heroes Launcher" ],
 		"1.0.0" : [ "Initial release" ]
 	},
